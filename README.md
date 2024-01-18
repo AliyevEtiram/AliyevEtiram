@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Etiram</h1>
+<h1 align="center">Hi 👋, I'm Etiram kak dla</h1>
 <h3 align="center">Front end develope</h3>
 <div> <a href="https://github.com/AliyevEtiram" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
